@@ -48,7 +48,7 @@ To get started with this project, you will need to have Flutter installed. You c
 
 <!-- Upload and drag the screenshots here -->
 <p align="center">
-  <img src="![photo_1_2024-10-05_15-34-43](https://github.com/user-attachments/assets/cced96df-e9d3-4636-aced-2080bf349bc8)" width="250" title="Home Screen">
+  <img src="" width="250" title="Home Screen">![photo_1_2024-10-05_15-34-43](https://github.com/user-attachments/assets/cced96df-e9d3-4636-aced-2080bf349bc8)
 
   <img src="screenshots/screenshot2.png" width="250" title="Car Listing Screen">
   <img src="screenshots/screenshot3.png" width="250" title="Date Selection">
